@@ -1,0 +1,2 @@
+D:\DesignPatterns\SimpleFactoryMethod\Project1\Debug\SimpleFactoryDesignPattern.exe
+D:\DesignPatterns\SimpleFactoryMethod\Project1\Debug\SimpleFactoryDesignPattern.pdb
